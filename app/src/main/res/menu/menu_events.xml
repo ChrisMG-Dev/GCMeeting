@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.guide.cordobatourplus.EventFragment">
+    <item android:id="@+id/action_all"
+        android:title="All"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_calendary"
+        android:icon="@drawable/ic_calendar_black"
+        android:title="From date"
+        app:showAsAction="always"/>
+</menu>

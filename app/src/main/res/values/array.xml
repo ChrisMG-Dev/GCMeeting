@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sections">
+        <item name="home">Home</item>
+        <item name="event">Event</item>
+        <item name="news">News</item>
+        <item name="interest">Tourist Attractions</item>
+    </array>
+</resources>

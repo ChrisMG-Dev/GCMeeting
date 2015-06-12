@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.guide.cordobatourplus.EventDetails">
+    <item android:id="@+id/action_contact"
+        android:title="Contact"
+        app:showAsAction="always|withText">
+    </item>
+    <item android:id="@+id/action_stream"
+        android:title="Stream"
+        android:icon="@drawable/ic_play_back"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/action_map"
+        android:title="Map"
+        android:icon="@drawable/ic_attractions"
+        app:showAsAction="always">
+    </item>
+</menu>
